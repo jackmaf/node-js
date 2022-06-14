@@ -377,6 +377,9 @@ ejemplo de imagen que todo salio perfecto:
 ![I4](https://github.com/jackmaf/node-js/blob/master/imagenes-guia/3.png)
 
 28. se ingresa a la base de datos remota en Mongo Atlas he ingresamos a: 
-Database->Browse Colletions
+Database->Browse Colletions, para revisar que los datos enviamos por postman o insomnia se vean reflejados en la tabla users
 
 ![I5](https://github.com/jackmaf/node-js/blob/master/imagenes-guia/2.png)
+
+## Otros
+[Heramienta para copiar pegar codigo alumnos]: https://ctxt.io/
